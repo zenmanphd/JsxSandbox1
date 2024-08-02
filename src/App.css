@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: rgb(111, 219, 247);
+}
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+button {
+  font-family: 'Courier New', Courier, monospace;
+  background-image: linear-gradient(45deg,rgb(128, 236, 128), blue, rgb(255, 0, 217));
+  color: whitesmoke;
+}
+body {
+  background-color: rgb(12, 73, 73);
+}
+.prototype {
+  border: 2px solid rgb(101, 26, 214);
+  border-radius: 10px;
+  padding: 15px;
+}
